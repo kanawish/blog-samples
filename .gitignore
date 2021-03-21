@@ -1,0 +1,17 @@
+# Mac junk
+Thumbs.db
+.DS_Store
+
+# Jetbrains local
+.idea/
+
+# Build artefacts
+node_modules/
+out/
+build
+
+# Local gradle
+.gradle
+
+# VIM
+*.swp
